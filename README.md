@@ -1,5 +1,5 @@
 ## Hi, I am Giuseppe 
-- I am a backend develope.
+- I am a backend developer.
 - Currently using java, springboot at work.
 - Working and exploring tech by day and building side projects on nights & weekends.
 
