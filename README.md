@@ -15,7 +15,7 @@
 ### 🧠 About me
 
 - 💼 Backend developer: **Java, Spring Boot**, APIs and data-heavy services.
-- 📈 Master's in Finance (Rome Business School): I like turning finance theory (DCF, factor models, LBO, risk) into working, tested software.
+- 📈 Currently pursuing a Master's in Finance at Rome Business School: I like turning finance theory (DCF, factor models, LBO, risk) into working, tested software.
 - 🛠️ I build end-to-end tools: data ingestion → modelling → web UI → packaging as native macOS apps.
 - 🪂 Off the keyboard: sports, skydiving, anime and manga.
 
